@@ -5,9 +5,10 @@ the preprocessing step namely `stemming`.
 
 
 ## Write a function `q03_stop_word_stemmer` that 
-- Makes use of input data from previous question.
-- Removes the stop words on the tokenized text.
-- Iterates over the rows obtained from previous step and performs stemming using the PorterStemmer 
+- Makes use of input `q01_load_data`.
+- Converts the training data `X_train` to series.
+- Removes the stop words from the training data .
+- Iterates over the rows obtained from previous step (i.e text processed after applying stop words) and performs stemming using the PorterStemmer. 
 
 
 

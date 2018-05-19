@@ -23,10 +23,9 @@ In today's lecture we learned some of the core concepts invloved in Natural lang
 Lets review some of the concepts taught in the class. At the end of the assignment you'll be able to:
 
 * Implement the necessary preprocessing steps required while processing natural language.
-* Classify and segregate new documents into the specified category of pre-existing documents.
 * Show contextual understanding learned by machine.
 
 ## Dataset
 
 For this exercise, we will use the Twenty Newsgroups Data Set,which comprises of 20000 messages taken from 20 newsgroups.
-
+* [new_train](https://github.com/commit-live-students/nlp_day_01_project/tree/master/data/20news-bydate-train)

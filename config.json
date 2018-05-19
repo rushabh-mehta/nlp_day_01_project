@@ -1,1 +1,1 @@
-{ "notebook": { "folder": "nlp_day_01_project" , "q01_load_data": "q01_load_data.ipynb", "q02_tokenize": "q02_tokenize.ipynb", "q03_stop_word_stemmer": "q03_stop_word_stemmer.ipynb", "q04_count_vectors": "q04_count_vectors.ipynb", "q05_classifier": "q05_classifier.ipynb"} }
+{ "notebook": { "folder": "nlp_day_01_project" , "q01_load_data": "q01_load_data.ipynb", "q02_tokenize": "q02_tokenize.ipynb", "q03_stop_word_stemmer": "q03_stop_word_stemmer.ipynb", "q04_count_vectors": "q04_count_vectors.ipynb"} }
